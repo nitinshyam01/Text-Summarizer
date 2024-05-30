@@ -1,1 +1,1 @@
-# Text-Summarizer-App
+# Text-Summarizer
